@@ -1,0 +1,2 @@
+db:5432:pageanalyzer:postgres:postgres
+db:5432:*:postgres:postgres
